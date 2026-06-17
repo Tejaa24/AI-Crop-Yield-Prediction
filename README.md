@@ -4,11 +4,11 @@ Machine Learning powered crop yield prediction system using environmental and ag
 
 ## Features
 
-- Real-time crop yield prediction
-- Flask REST API
-- Random Forest Model
-- Cloud Deployment
-- Interactive Frontend
+* Real-time crop yield prediction
+* Flask REST API
+* Random Forest Model
+* Cloud Deployment
+* Interactive Frontend
 
 ## Tech Stack
 
