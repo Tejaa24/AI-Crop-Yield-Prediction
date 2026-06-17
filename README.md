@@ -1,15 +1,28 @@
-# 🌾 AI-Powered Crop Yield Prediction Platform
+# 🌾 AI Crop Yield Prediction System
 
-Machine Learning powered crop yield prediction system using environmental and agricultural parameters.
+## 📌 Overview
+Machine Learning project to predict crop yield based on environmental factors like rainfall, temperature, and crop type.
 
-## Features
+## 🧠 Tech Stack
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-* Real-time crop yield prediction
-* Flask REST API
-* Random Forest Model
-* Cloud Deployment
-* Interactive Frontend
+## 🎯 Problem
+Help farmers estimate crop yield using data-driven ML model.
 
-## Tech Stack
+## 📊 Workflow
+Data → EDA → Model Training → Prediction
 
-Python, Pandas, NumPy, Scikit-Learn, Flask, HTML, CSS, JavaScript
+## 📈 Model
+Random Forest Regressor (or your model)
+
+## 🚀 How to Run
+pip install -r requirements.txt
+python app.py
+
+## 📌 Key Insights
+- Rainfall affects yield
+- Temperature impacts productivity
+- Crop type matters
+
+## 👨‍💻 Author
+Adi lakshamma Bonam
